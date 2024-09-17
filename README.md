@@ -1,1 +1,1 @@
-# netflic-clone-responsive
+# netflix-clone-responsive
